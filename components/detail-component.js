@@ -14,7 +14,7 @@ export class DetailComponent extends LitElement {
   connectedCallback() {
     super.connectedCallback();
 
-    // Escucha el evento personalizado 'detailUpdated' y actualiza los detalles
+    // Captura el evento personalizado 'detailUpdated' y actualiza los detalles
     document.addEventListener("detailUpdated", this._updateDetails.bind(this));
   }
 
