@@ -1,6 +1,6 @@
 # Lit-Invoice
 Este proyecto es una aplicación web para gestionar facturas, utilizando Lit para crear componentes web y Vite como herramienta de construcción. Permite gestionar facturas de manera eficiente.
-despliegue proyecto invoice-0822.netlify.app
+despliegue proyecto (https://invoice-0822.netlify.app)
 # Tecnologias utilizada 
 - **Lit**
 - **Vite**
